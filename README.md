@@ -1,7 +1,7 @@
 # **Python-Programming-for-Beginners**
-**This Repository will help you to understand Python in detail. And tells you More Information from the very Beginner level. **
+**This Repository will help you to understand Python in detail. And tells you More Information from the very Beginner level.**
 
-## * Installation*
+## **Installation**
 Use Google Colaboratory or Jupyter Notebook to run this file.
 
 Python is a commonly interpreted, interactive, object-oriented, high-level programming language. Created by Guido van Rossum from 1985 to 1990. Like Perl, the Python source code is available under the GNU General Public License (GPL). This tutorial is a good understanding of the Python programming language.  
@@ -32,7 +32,7 @@ Python is a high-level, interpreted, interactive, object-oriented scripting lang
 
 -	Easy integration with C, C ++, COM, ActiveX, CORBA, Java.
 
-## **Python application **
+## **Python application**
 
 -	As mentioned earlier, Python is one of the most widely used languages on the web. Some of them are listed here. 
 
@@ -48,4 +48,4 @@ Python is a high-level, interpreted, interactive, object-oriented scripting lang
 
 ## **Authors**
 
-- [@Mahmudul_Hasan_shakil](https://www.github.com/Mahmudul-Hasan-Shakill)
+- [@Mahmudul_Hasan_Shakil](https://www.github.com/Mahmudul-Hasan-Shakill)
